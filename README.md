@@ -2,6 +2,8 @@
 This project was made in duo with GregPlusPlus https://github.com/GregPlusPlus !
 This is a 4 digit nixie clock project
 
+![image](https://github.com/CallMeC/NixieClocks/assets/47334555/35cbb20c-1161-4b42-a2da-cd1f9af054ff)
+
 # Features
 - This is able to tell time ! (No jokes)
 - Wifi self-hosted webserver for settings
